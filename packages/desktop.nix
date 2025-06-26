@@ -15,17 +15,29 @@
     xdo
     libnotify       # For sending notifications
     
+    # Fun
+    cava 
+    fortune
+    neo-cowsay 
+    cbonsai
+    wtfutil
+    sl
+    hollywood
+    
     # Applications
     firefox
     zoom-us
     obsidian
     zotero
     slack
-    spotify
     tor-browser
-    signal-desktop
+    # signal-desktop bugged out rn
+    signal-cli
+    gurk-rs
     ghostty
     obs-studio
+    libreoffice
+    zathura
     
     # Media controls
     playerctl

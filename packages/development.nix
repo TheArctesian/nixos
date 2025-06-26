@@ -4,6 +4,7 @@
   environment.systemPackages = with pkgs; [
     # Programming languages and tools
     git
+    gh
     go
     rustc
     nodejs
@@ -31,5 +32,6 @@
     kicad
     freecad
     openscad
+    kpcli
   ];
 }
